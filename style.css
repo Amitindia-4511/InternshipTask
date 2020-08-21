@@ -31,7 +31,8 @@ body{
   border: 1px solid #707070;
   border-radius: 33px;
   opacity: 1;
-  margin: 5rem;
+  margin-left: 7rem;
+  margin-top: 3rem;
   background-color: rgba(0,0,0,0.9);
   position: relative;
 
@@ -69,7 +70,7 @@ body{
   width: 1651px;
   height: 1229px;
   background: transparent radial-gradient(closest-side at 50% 50%, #48A4F6 0%, #2F8AE4 100%) 0% 0% no-repeat padding-box;
-  margin-left: 75px;
+  margin-left: 7rem;
   border: 1px solid #72BBFF;
   border-radius: 35px;
   opacity: 1;
@@ -120,7 +121,7 @@ hr{
   background: #377DC8 0% 0% no-repeat padding-box;
   border-radius: 35px;
   opacity: 1;
-  margin: 3rem auto auto 4rem;
+  margin: 3rem auto auto 7rem;
 
 }
 
@@ -129,6 +130,8 @@ hr{
 .content-footer{
   width: 1511px;
   height: 504px;
+  margin-top: 4rem;
+  margin-left: 4rem;
 }
 
 th{
@@ -142,7 +145,11 @@ th{
 
 }
 
+.footer-main-info{
+  margin-left: 3rem;
 
+
+}
 .bottom-info{
   margin-top: 3rem;
   margin-left: 4rem;
@@ -168,7 +175,7 @@ position: relative;
 
 .social-icon{
   position: absolute;
-  top: 3390px;
+  top: 3350px;
   left: 1235px;
 }
 
@@ -182,6 +189,4 @@ i{
   color: #377DC8;
   object-fit: cover;
   box-sizing: border-box;
-
-
 }
