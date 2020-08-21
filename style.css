@@ -1,0 +1,187 @@
+body{
+  background-color: #4DA1FA;
+  padding: 0;
+  margin: 0;
+
+}
+#active{
+  color: #fff;
+}
+
+.nav-item{
+  font-size: 1rem;
+  margin: .5rem;
+  color: #0052AA;
+}
+
+.main-header{
+  margin-top: 7rem;
+  text-align: center;
+  color: #FFF;
+  font-family: 'Nunito', sans-serif;
+  font-size: 58px;
+
+
+}
+
+.head{
+  width: 1651px;
+  height: 763px;
+  background: transparent url('Assets/map/map-animation.png');
+  border: 1px solid #707070;
+  border-radius: 33px;
+  opacity: 1;
+  margin: 5rem;
+  background-color: rgba(0,0,0,0.9);
+  position: relative;
+
+}
+
+.img-op{
+  opacity: .25;
+
+}
+
+.font-main{
+  font-size: 115px;
+  color: red;
+  position: absolute;
+  top: 20rem;
+  left: 45rem;
+}
+.header-two{
+  color: #E4E4E4;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 58px;
+}
+.age-content{
+  color: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-size: 58px;
+
+}
+.content-information{
+  margin: 3rem;
+}
+
+.rectangle{
+  width: 1651px;
+  height: 1229px;
+  background: transparent radial-gradient(closest-side at 50% 50%, #48A4F6 0%, #2F8AE4 100%) 0% 0% no-repeat padding-box;
+  margin-left: 75px;
+  border: 1px solid #72BBFF;
+  border-radius: 35px;
+  opacity: 1;
+}
+
+ .container-img{
+  display: grid;
+  grid-gap: 45px;
+  grid-template-columns: repeat(5,117px);
+  justify-content:space-between;
+  padding: 80px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+
+
+}
+
+/* .img-figure{
+  width:117px
+  height:124px;
+  margin: 10px 25px 5px 33px;
+
+} */
+figcaption{
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+  color: #005AB2;
+}
+.white{
+  color: #E4E4E4;
+}
+hr{
+  color: #377DC8;
+  width: 1920px;
+  opacity: 1;
+  margin-top: 7rem;
+  margin-bottom: 1rem;
+  border: 1px solid #377DC8;
+  box-shadow: 0 1px rgba(255,255,255,0.5);
+}
+
+.footer-box{
+  width: 1651px;
+  height: 632px;
+  background: #377DC8 0% 0% no-repeat padding-box;
+  border-radius: 35px;
+  opacity: 1;
+  margin: 3rem auto auto 4rem;
+
+}
+
+
+
+.content-footer{
+  width: 1511px;
+  height: 504px;
+}
+
+th{
+  color: #000;
+
+}
+.tbody-main{
+  color: #FFFFFF;
+  font: normal normal normal 20px Nunito;
+
+
+}
+
+
+.bottom-info{
+  margin-top: 3rem;
+  margin-left: 4rem;
+  margin-bottom: 3rem;
+  width: 1651px;
+  height: 89px;
+  background: #377DC8;
+  border-radius: 24px;
+  opacity: 1;
+}
+
+.footer-para{
+  text-align: left;
+font: normal normal normal 20px/50px Nunito;
+letter-spacing: 1px;
+color: #000000;
+opacity: 1;
+padding: 1.5rem;
+position: relative;
+
+
+}
+
+.social-icon{
+  position: absolute;
+  top: 3390px;
+  left: 1235px;
+}
+
+i{
+  margin-left:20px;
+  text-align: center;
+  padding-top: 6px;
+  width: 32px;
+  height: 31px;
+  background: #fff;
+  color: #377DC8;
+  object-fit: cover;
+  box-sizing: border-box;
+
+
+}
